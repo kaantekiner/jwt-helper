@@ -174,24 +174,3 @@ except Exception as err:
     print("\n" + str(err))
     print(bcolors.FAIL + " -- " + "... wrong usage ..." + " -- \n" + bcolors.ENDC)
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
